@@ -4,7 +4,7 @@ Business insights 360 is a comprehensive presentation of power BI dashboards/rep
 
 - Finance View
 - Sales View
-- Markeitng View
+- Marketing View
 - Supply Chain View
 - Executive View
 - Top and Bottom 5 View
